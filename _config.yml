@@ -1,3 +1,6 @@
 title: Computer Technology Culminating Portfolio
 description: Documenting my joirney through the TEJ2OR-2 course in grade 10.
 theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
